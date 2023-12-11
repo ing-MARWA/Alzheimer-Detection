@@ -29,10 +29,10 @@ In addition, a Streamlit web application has been developed to facilitate easy u
 ### Streamlit App
 - The streamlit_app.py file contains the code for the Streamlit app.
 - This app allows users to :
-          - Upload an MRI image
-          - Receive a prediction for Alzheimer's disease stage
-          - View the predicted class and associated probability
-          - Visualize the uploaded image
+  - Upload an MRI image
+  - Receive a prediction for Alzheimer's disease stage
+  - View the predicted class and associated probability
+  - Visualize the uploaded image
 ### Future Work : 
 - Improve model performance by exploring different architectures and hyperparameter tuning.
 - Include additional features like image segmentation and data augmentation.
