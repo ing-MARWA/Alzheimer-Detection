@@ -19,14 +19,14 @@ In addition, a Streamlit web application has been developed to facilitate easy u
 
 ### Repository Structure
 
-- `Alzheimer Detection.ipynb`: Jupyter notebook contains the complete code for model training, evaluation, and visualization of results.
-- The notebook includes sections for :
- - Data preprocessing and loading
- - Model definition and training
- - Evaluation metrics calculation and visualization
- - Confusion matrix and classification report generation
- - Hyperparameter optimization (optional)
- - Model saving and loading
+   - `Alzheimer Detection.ipynb`: Jupyter notebook contains the complete code for model training, evaluation, and visualization of results.
+   - The notebook includes sections for :
+    - Data preprocessing and loading
+    - Model definition and training
+    - Evaluation metrics calculation and visualization
+    - Confusion matrix and classification report generation
+    - Hyperparameter optimization (optional)
+    - Model saving and loading
 ### Streamlit App
 - The streamlit_app.py file contains the code for the Streamlit app.
 - This app allows users to :
