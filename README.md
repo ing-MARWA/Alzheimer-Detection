@@ -18,9 +18,8 @@ The project utilizes a Sequential CNN architecture with convolutional layers, ma
 In addition, a Streamlit web application has been developed to facilitate easy use and demonstration of the model. Users can upload an MRI image and receive a prediction for Alzheimer's disease staging.
 
 ### Repository Structure
-
-   - `Alzheimer Detection.ipynb`: Jupyter notebook contains the complete code for model training, evaluation, and visualization of results.
-   - The notebook includes sections for :
+- `Alzheimer Detection.ipynb`: Jupyter notebook contains the complete code for model training, evaluation, and visualization of results.
+- The notebook includes sections for :
     - Data preprocessing and loading
     - Model definition and training
     - Evaluation metrics calculation and visualization
