@@ -19,7 +19,7 @@ In addition, a Streamlit web application has been developed to facilitate easy u
 
 ### Repository Structure
 
-     - `Alzheimer Detection.ipynb`: upyter notebook contains the complete code for model training, evaluation, and visualization of results.
+ - `Alzheimer Detection.ipynb`: upyter notebook contains the complete code for model training, evaluation, and visualization of results.
          - The notebook includes sections for :
          - Data preprocessing and loading
          - Model definition and training
@@ -28,21 +28,21 @@ In addition, a Streamlit web application has been developed to facilitate easy u
          - Hyperparameter optimization (optional)
          - Model saving and loading
 ### Streamlit App
-     - The streamlit_app.py file contains the code for the Streamlit app.
-     - This app allows users to :
+- The streamlit_app.py file contains the code for the Streamlit app.
+- This app allows users to :
           - Upload an MRI image
           - Receive a prediction for Alzheimer's disease stage
           - View the predicted class and associated probability
           - Visualize the uploaded image
 ### Future Work : 
-    - Improve model performance by exploring different architectures and hyperparameter tuning.
-    - Include additional features like image segmentation and data augmentation.
-    - Integrate the model with medical imaging software for clinical use.
-    - Develop explainability methods to understand the model's decision-making process.
+- Improve model performance by exploring different architectures and hyperparameter tuning.
+- Include additional features like image segmentation and data augmentation.
+- Integrate the model with medical imaging software for clinical use.
+- Develop explainability methods to understand the model's decision-making process.
  ### Disclaimer
 This project is intended for educational purposes only and should not be solely relied upon for medical diagnosis. Consult with healthcare professionals for definitive diagnosis and treatment plans.
 ### Installation
-    to run the project, follow these steps:  
+to run the project, follow these steps:  
     - Install required libraries:
         - pip install -r requirements.txt
         - Download the dataset and place it in the appropriate directory.
