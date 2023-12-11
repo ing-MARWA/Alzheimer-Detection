@@ -42,10 +42,10 @@ In addition, a Streamlit web application has been developed to facilitate easy u
 This project is intended for educational purposes only and should not be solely relied upon for medical diagnosis. Consult with healthcare professionals for definitive diagnosis and treatment plans.
 ### Installation
 to run the project, follow these steps:  
-    - Install required libraries:
-        - pip install -r requirements.txt
-        - Download the dataset and place it in the appropriate directory.
-        - Run the Jupyter notebook:
-             - jupyter notebook `Alzheimer Detection.ipynb`
-       - Start the Streamlit app:
-            - streamlit run streamlit_app.py
+- Install required libraries:
+  - pip install -r requirements.txt
+  - Download the dataset and place it in the appropriate directory.
+  - Run the Jupyter notebook:
+    - jupyter notebook `Alzheimer Detection.ipynb`
+  - Start the Streamlit app:
+      - streamlit run streamlit_app.py
