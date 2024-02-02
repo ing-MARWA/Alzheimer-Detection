@@ -1,6 +1,4 @@
 # Alzheimer-Detection
-Creating a well-documented `README.md` file is essential for explaining your project to others. Here's a template tailored for your Alzheimer's disease detection project using MRI scans and a Streamlit app. You can adapt the text to add more specific details if needed.
-
 ## Alzheimer's Disease Detection Using CNNs Project
 
 ### Introduction
